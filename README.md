@@ -1,7 +1,9 @@
 # Server Side JavScript with NodeJS
 #### Course offered by Coursera
 
-This repository contains all of the assignmentcodes used in the course Server Side Javascript with NodeJS in Coursera.
+
+In this repository, you'll find solutions to coding assignments for a Coursera course. To access the solutions, download the provided zip files. Due to GitHub's limitations, direct viewing of zip files isn't supported. Feel free to download them for reference purposes.
+
 
 ## Certificate
 ![INT222_Mooc_certificate](https://github.com/vansh-codes/Server-Side-JS-With-NodeJS/assets/114163734/138b5545-c67b-450c-a152-25e83d270df6)
